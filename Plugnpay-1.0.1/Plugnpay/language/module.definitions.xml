@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ * CubeCart v6
+ * ========================================
+ * CubeCart is a registered trade mark of CubeCart Limited
+ * Copyright CubeCart Limited 2014. All rights reserved.
+ * UK Private Limited Company No. 5323904
+ * ========================================
+ * Web:   http://www.cubecart.com
+ * Email:  sales@devellion.com
+ * License:  GPL-3.0 http://opensource.org/licenses/GPL-3.0
+-->
+<definitions version="1.0">
+ <group name="plugnpay">
+  <string name="info_trans_pass"><![CDATA[Only required when using API payment method.]]></string>
+  <string name="publisher_name"><![CDATA[Publisher Name]]></string>
+  <string name="module_title"><![CDATA[PlugnPay]]></string>
+  <string name="mode"><![CDATA[Use Payment Method]]></string>
+  <string name="publisher_password"><![CDATA[Remote Client Password]]></string>
+  <string name="ss"><![CDATA[Smart Screens (Recommended)]]></string>
+  <string name="api"><![CDATA[API (Requires SSL & PCI Compliance)]]></string>
+  <string name="auth_capture"><![CDATA[Authorize &amp; Capture]]></string>
+  <string name="auth_only"><![CDATA[Authorize Only]]></string>
+  <string name="payment_type"><![CDATA[Transaction Type]]></string>
+  <string name="settings"><![CDATA[PlugnPay Settings]]></string>
+  <string name="password_mode"><![CDATA[Password Required Mode]]></string>
+  <string name="password_mode_value"><![CDATA[Disabled]]></string>
+ </group>
+</definitions>
